@@ -1,0 +1,5 @@
+
+{
+  "name": "Simple E-commerce Platform",
+  "description": "A simple e-commerce frontend to browse products, manage a shopping cart, and simulate placing orders. Includes role-based access for customers and administrators."
+}
